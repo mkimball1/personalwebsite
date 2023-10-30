@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+  
+  .contact-box {
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2vw;
+  }
+  

@@ -1,0 +1,44 @@
+.card-title {
+    text-align: left;
+    margin-top: 1.5vw; /* scalable margin */
+    margin-left: 1.1vw; /* scalable margin */
+    font-size: 1.8vw;
+}
+
+.card-header {
+    text-align: left;
+    font-size: 2.4vw;
+}
+
+.card{
+    margin-bottom: 4vw; /* scalable margin */
+}
+
+.container {
+    display: flex;
+    margin-left: -0.7vw;
+}
+
+.badge {
+    margin-top: 0.3vw; /* scalable margin */
+    font-size: 1.2vw; /* scalable font size */
+    margin-left: 1vw; 
+    user-select: none;
+}
+
+/* @media screen and (max-width: 768px) {
+    .card-title {
+        margin-top: 2.5vw;
+        margin-left: 2.7vw;
+    }
+
+    .card{
+        margin-bottom: 6vw;
+    }
+
+    .badge {
+        margin-top: 1.5vw;
+        font-size: 2.5vw;
+        margin-left: 2vw;
+    }
+} */

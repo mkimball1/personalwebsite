@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume_img {
+    width: 100%;
+}
+
+h3 {
+    font-size: 2vw;
+}
