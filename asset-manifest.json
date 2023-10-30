@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/personalwebsite/static/js/main.8103eaab.js",
-    "index.html": "/personalwebsite/index.html",
-    "main.8103eaab.js.map": "/personalwebsite/static/js/main.8103eaab.js.map"
+    "main.js": "/martinkimball.com/static/js/main.8103eaab.js",
+    "index.html": "/martinkimball.com/index.html",
+    "main.8103eaab.js.map": "/martinkimball.com/static/js/main.8103eaab.js.map"
   },
   "entrypoints": [
     "static/js/main.8103eaab.js"
