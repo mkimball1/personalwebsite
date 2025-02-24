@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 
 import Image from 'react-bootstrap/Image';
-
 import resume from './images/kimballmartin_resume_w25.jpg'
 
 function Resume() {
