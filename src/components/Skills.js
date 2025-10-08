@@ -29,6 +29,12 @@ function Skills() {
                     <Badge pill bg="secondary"> Express </Badge>
                     <Badge pill bg="secondary"> MongoDB </Badge>
                     <Badge pill bg="secondary"> Git </Badge>
+                    <Badge pill bg="secondary"> Docker </Badge>
+                    <Badge pill bg="secondary"> AWS </Badge>
+                    <Badge pill bg="secondary"> MySQL </Badge>
+                    <Badge pill bg="secondary"> VS Code </Badge>
+                    <Badge pill bg="secondary"> Eclipse </Badge>
+                    <Badge pill bg="secondary"> PyCharm </Badge>
                 </div>
             <Card.Title> Design </Card.Title>
                 <div class="container">

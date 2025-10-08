@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 
 import Image from 'react-bootstrap/Image';
-import resume from './images/kimballmartin_resume_w25.jpg'
+import resume from './images/kimballmartin_resume_2025-26.jpg'
 
 function Resume() {
     return (
